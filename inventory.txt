@@ -1,0 +1,192 @@
+null's model.Inventory:
+nyahj14,fee,4.0,false,3
+nyahj14,crocs,40.0,true,2
+nyahj14,TV,400.0,false,3
+nyahj14,Airpods,120.0,true,1
+chanyahhhh,water bottle,5.0,true,1
+nyahj14,Macbook,800.0,false,1
+nyahj14,crocs,120.0,false,5
+nyahj14,type,5.0,false,2
+nyahj14,five,3.0,false,2
+nyahj14,shirt,500.0,false,2
+nyahj14,crocs,5.0,true,3
+nyahj14,crocs,500.0,true,4
+nyahj14,pencil,2.0,true,4
+nyahj14,crocs,5.0,false,3
+nyahj14,ipad,200.0,true,1
+nyahj14,sanitizer,30.0,true,2
+nyahj14,chalk,5.0,false,1
+nyahj14,hoodie,20.0,true,1
+taschap2004,scissors,5.0,false,1
+taschap2004,lamp,20.0,true,4
+taschap2004,iphone,1.0,false,150
+taschap2004,ipad,250.0,true,2
+taschap2004,TV,100.0,false,3
+taschap2004,apple watch,90.0,false,1
+taschap2004,microwave,30.0,false,2
+taschap2004,refrigerator,50.0,true,1
+taschap2004,mini fridge,23.0,true,1
+taschap2004,chair,13.0,false,2
+taschap2004,table,40.0,true,2
+taschap2004,ps4,235.0,true,3
+taschap2004,ps5,500.0,false,1
+taschap2004,diamond ring,1000.0,true,50
+taschap2004,car,2300.0,false,1
+taschap2004,air forces,70.0,true,2
+taschap2004,jordans,127.0,true,2
+taschap2004,tyson nuggets,43.0,true,1
+taschap2004,broom,30.0,false,1
+taschap2004,mop,50.0,true,2
+taschap2004,table,30.0,false,2
+taschap2004,shaker,20.0,false,2
+taschap2004,nintendo switch,150.0,true,2
+taschap2004,lamp,39.0,true,1
+taschap2004,macbook,400.0,true,5
+taschap2004,nike sweatpants,4.0,true,20
+taschap2004,lawyer pants,30.0,true,2
+taschap2004,hangers,50.0,false,2
+taschap2004,treehouse,50.0,false,2
+taschap2004,paper towels,40.0,true,4
+taschap2004,box of oatmeal,10.0,true,4
+taschap2004,football tickets,90.0,true,1
+taschap2004,case of water,30.0,false,5
+taschap2004,box of chocolate,30.0,true,5
+taschap2004,psu sweatshirt,30.0,true,50
+taschap2004,vintage pants,90.0,false,3
+taschap2004,chalk paint,50.0,false,1
+taschap2004,printer,150.0,true,4
+taschap2004,gogurt,20.0,true,20
+taschap2004,chapstick,2.0,true,100
+dide2007,slide,50.0,false,5
+dide2007,swing,30.0,true,4
+dide2007,chalk,40.0,true,3
+dide2007,laptop,4.0,true,3
+dide2007,piano,30.0,false,4
+dide2007,guitar,100.0,true,4
+dide2007,electric guitar,200.0,false,4
+dide2007,marker,5.0,false,50
+dide2007,violin,100.0,false,1
+dide2007,recorder,30.0,false,3
+dide2007,flute,50.0,false,3
+dide2007,basketball,19.0,true,48
+dide2007,football,3.0,true,34
+dide2007,golf ball,3.0,true,2
+dide2007,golf club,4.0,false,2
+dide2007,baseball,4.0,false,3
+dide2007,baseball bat,30.0,false,3
+dide2007,boxing gloves,34.0,true,32
+dide2007,boxing headgear,43.0,true,2
+dide2007,boxing shoes,4.0,false,29
+dide2007,cleats,39.0,false,3
+dide2007,boxing bag,30.0,false,3
+dide2007,car seat,29.0,false,4
+dide2007,hockey stick,30.0,false,3
+dide2007,air hockey table,3900.0,true,1
+dide2007,hockey puck,3.0,false,3
+dide2007,ping pong table,390.0,false,1
+dide2007,pac man machine,240.0,true,2
+dide2007,lacrosse stick,39.0,false,3
+dide2007,volleyball,49.0,true,39
+dide2007,volleyball net,4.0,true,29
+dide2007,soccer goal,300.0,true,39
+dide2007,shin guards,39.0,true,29
+dide2007,harp,20.0,false,1
+dide2007,balloons,20.0,true,50
+dide2007,scissors,50.0,true,30
+dide2007,party cups,2.0,true,10
+izzyruns008,jordans,200.0,true,4
+izzyruns008,human races,120.0,true,4
+izzyruns008,panda dunks,100.0,true,2
+izzyruns008,lebron jersey,90.0,false,4
+izzyruns008,curry jersey,90.0,false,4
+izzyruns008,tatum jersey,70.0,false,4
+izzyruns008,maxey jersey,80.0,true,3
+izzyruns008,embiid jersey,490.0,true,4
+izzyruns008,ant edwards jersey,90.0,false,3
+izzyruns008,durant jersey,4803.0,true,4
+izzyruns008,kyrie jersey,40.0,true,2
+izzyruns008,jokic jersey,38.0,true,49
+izzyruns008,luka jersey,40.0,false,3
+izzyruns008,yutanbe jersey,20.0,false,3
+izzyruns008,gordon jersey,30.0,false,2
+izzyruns008,murray jersey,4.0,false,3
+izzyruns008,cam thomas jersey,40.0,false,3
+izzyruns008,mikal bridges jersey,30.0,false,4
+izzyruns008,after hours poster,20.0,false,4
+izzyruns008,kawhi jersey,90.0,false,3
+izzyruns008,pg jersey,40.0,true,3
+izzyruns008,harden jersey,1.0,true,100
+izzyruns008,westbrook okc jersey,30.0,true,4
+izzyruns008,allen iverson jersey,50.0,true,39
+izzyruns008,shaq jersey,503.0,true,3
+izzyruns008,kobe jersey,40.0,true,3
+izzyruns008,magic jersey,4.0,true,3
+izzyruns008,bird jersey,4.0,true,3
+izzyruns008,kareem jersey,49.0,true,5
+izzyruns008,duncan jersey,4.0,true,3
+izzyruns008,wemby jersey,4.0,true,3
+izzyruns008,shai jersey,48.0,true,3
+izzyruns008,chet jersey,3.0,true,4
+izzyruns008,paolo jersey,4.0,false,3
+izzyruns008,lamelo jersey,85.0,true,393
+izzyruns008,carmelo jersey,39.0,true,49
+izzyruns008,butler jersey,38.0,true,39
+izzyruns008,wilt jersey,10.0,false,3
+izzyruns008,tucker jersey,40.0,true,49
+izzyruns008,booker jersey,303.0,false,3499
+danBrito,honda civic,4000.0,true,5
+danBrito,hyundai sonata,4000.0,false,1
+danBrito,range rover,4050.0,false,1
+danBrito,tesla,5009.0,false,2
+danBrito,kia sorento,5006.0,false,2
+danBrito,kia soul,6090.0,false,2
+danBrito,toyota malibu,7000.0,false,3
+danBrito,power washer,40.0,true,3
+danBrito,hellcat,4000.0,true,4
+danBrito,jeep wrangler,4090.0,true,1
+danBrito,ipad,3090.0,true,4
+danBrito,water bottle,20.0,true,4
+danBrito,honda accord,4005.0,true,2
+danBrito,kia sport,5068.0,true,3
+danBrito,lint roller,30.0,true,4
+raye002,volleyball,30.0,false,2
+raye002,highlighters,2.0,true,20
+raye002,nintendo switch,90.0,true,4
+raye002,slides,30.0,true,3
+raye002,crocs,50.0,true,3
+raye002,towels,10.0,true,3
+raye002,rags,50.0,false,3
+raye002,bonnet,40.0,true,3
+raye002,nail polish,5.0,false,32
+raye002,trucker hat,40.0,true,5
+raye002,fishing pole,30.0,true,3
+raye002,watch,30.0,true,4
+mase2021,cocomelon doll,40.0,true,2
+mase2021,diapers,5.0,true,10
+mase2021,dinosaur,30.0,false,3
+mase2021,fruit snakcs,40.0,true,3
+mase2021,goggles,4.0,false,3
+mase2021,life jacket,50.0,true,3
+mase2021,rubiks cube,40.0,false,3
+mase2021,sunglasses,3.0,true,2
+mase2021,tablet,400.0,false,3
+nyahj14,Fan,30.0,true,2
+nyahj14,textbook,140.0,true,4
+nyahj14,extension cord,50.0,true,2
+nyahj14,Chair,5.0,true,7
+nyahj14,tripod,12.0,false,3
+nyahj14,tripod,120.0,true,3
+nyahj14,tripod,4.0,false,3
+nyahj14,cup,3.0,false,4
+nyahj14,cup,3.0,false,4
+nyahj14,gatorade,3.0,false,0
+nyahj14,dell pc,400.0,true,2
+nyahj14,iphone,900.0,false,3
+bobby2005,iphone,1000.0,false,3
+cjohn2009,overwatch,30.0,false,4
+cjohn2009,iphone,30.0,true,3
+cjohn2009,projector,50.0,true,3
+cjohn2009,iphone,30.0,true,4
+ashjack27,gta 6,90.0,true,1
+ashjack27,balenciagas,90.0,true,2
+ashjack27,balenciagas,900.0,true,2

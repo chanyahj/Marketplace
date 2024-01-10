@@ -1,0 +1,17 @@
+null's Wishlist:
+future2012,ipad,3090.0,true,4
+nyahj14,life jacket,50.0,true,3
+nyahj14,rubiks cube,40.0,false,3
+future2012,shirt,500.0,false,2
+future2012,basketball,19.0,true,48
+nyahj14,dinosaur,30.0,false,3
+bobby2005,violin,100.0,false,1
+bobby2005,kawhi jersey,90.0,false,3
+bobby2005,baseball bat,30.0,false,3
+bobby2005,lint roller,30.0,true,4
+bobby2005,hockey stick,30.0,false,3
+bobby2005,honda accord,4005.0,true,2
+bobby2005,cocomelon doll,40.0,true,2
+cjohn2009,refrigerator,50.0,true,1
+ashjack27,crocs,5.0,true,3
+ashjack27,hoodie,20.0,true,1
