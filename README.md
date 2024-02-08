@@ -5,3 +5,7 @@ From there the user can add items to their wishlist or shopping cart.
 Additionally, in the Buyer tab the user can view their wishlist or shopping cart.
 Finally, the user can checkout the items in their cart in the Buyer tab.
 After checkout program closes.
+
+How to test:
+1) Download files in src
+2) Test with Main.java
